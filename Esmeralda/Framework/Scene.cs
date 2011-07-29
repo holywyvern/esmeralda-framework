@@ -7,7 +7,7 @@ namespace Esmeralda.Framework
     public abstract class Scene : Interfaces.IScene
     {
         #region Variables
-        protected Dictionary<string, Graphics.SpriteBase> objects;
+        protected Dictionary<string, Interfaces.IDrawable> objects;
         protected SpriteBatch spriteBatch;
         protected Framework.Game parent;
         #endregion
@@ -18,7 +18,7 @@ namespace Esmeralda.Framework
         /// </summary>
         public virtual void Initialize(Framework.Game parent, SpriteBatch spriteBatch)
         {
-            objects = new Dictionary<string, Graphics.SpriteBase>();
+            objects = new Dictionary<string, Interfaces.IDrawable>();
             this.parent = parent;
             this.spriteBatch = spriteBatch;
         }
@@ -31,12 +31,12 @@ namespace Esmeralda.Framework
         public virtual void Refresh() 
         {
             this.Update();
-            foreach (Graphics.SpriteBase sprite in this.objects.Values)
+            foreach (Interfaces.IDrawable sprite in this.objects.Values)
             {
                 sprite.Update();
             }
             this.spriteBatch.GraphicsDevice.Clear(Microsoft.Xna.Framework.Color.Blue);
-            foreach (Graphics.SpriteBase sprite in this.objects.Values)
+            foreach (Interfaces.IDrawable sprite in this.objects.Values)
             {
                 sprite.Draw(this.spriteBatch);
             }
@@ -53,7 +53,7 @@ namespace Esmeralda.Framework
         #region Dispose
         public virtual void Dispose() 
         {
-            foreach (Graphics.SpriteBase sprite in this.objects.Values) { sprite.Dispose(); }
+            foreach (Interfaces.IDrawable sprite in this.objects.Values) { sprite.Dispose(); }
             this.objects.Clear();
             this.objects = null;
             Esmeralda.Graphics.Cache.Clear();

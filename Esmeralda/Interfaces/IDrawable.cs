@@ -8,5 +8,6 @@ namespace Esmeralda.Interfaces
     {
         void Draw(SpriteBatch spriteBatch);
         void Update();
+        void Dispose();
     }
 }
