@@ -51,6 +51,8 @@
     <Compile Include="Graphics\CacheConfig.cs" />
     <Compile Include="Graphics\Sprite.cs" />
     <Compile Include="Graphics\SpriteBase.cs" />
+    <Compile Include="Graphics\TiledSet.cs" />
+    <Compile Include="Graphics\TiledSprite.cs" />
     <Compile Include="Input\Keyboard.cs" />
     <Compile Include="Input\Keys.cs" />
     <Compile Include="Input\Mouse.cs" />
