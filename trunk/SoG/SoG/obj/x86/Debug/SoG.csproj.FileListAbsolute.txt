@@ -1,0 +1,30 @@
+D:\Proyectos\SoG\SoG\SoG\bin\x86\Debug\SoG.exe
+D:\Proyectos\SoG\SoG\SoG\bin\x86\Debug\SoG.pdb
+D:\Proyectos\SoG\SoG\SoG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\SoG\SoG\SoG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Proyectos\SoG\SoG\SoG\obj\x86\Debug\SoG.exe
+D:\Proyectos\SoG\SoG\SoG\obj\x86\Debug\SoG.pdb
+D:\Proyectos\SoG\SoG\SoG\bin\x86\Debug\Esmeralda.dll
+D:\Proyectos\SoG\SoG\SoG\bin\x86\Debug\Esmeralda.pdb
+D:\Proyectos\SoG\SoG\SoG\bin\x86\Debug\Content\box2.xnb
+D:\Proyectos\SoG\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\bin\x86\Debug\Content\box2.xnb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\bin\x86\Debug\SoG.exe
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\bin\x86\Debug\SoG.pdb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\bin\x86\Debug\Esmeralda.dll
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\bin\x86\Debug\Esmeralda.pdb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\obj\x86\Debug\SoG.exe
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoG\obj\x86\Debug\SoG.pdb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\Content\box2.xnb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\SoG.exe
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\SoG.pdb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\Esmeralda.dll
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\Esmeralda.pdb
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\obj\x86\Debug\SoG.exe
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\obj\x86\Debug\SoG.pdb

@@ -1,0 +1,10 @@
+EXPORTS
+    CharacterReader @1
+    ClipboardSize @2
+    KeyInitialize @3
+    MouseInitialize @4
+    OpenWebPage @5
+    ReadClipboard @6
+    ReaderInitialize @7
+    SoGUpdate @8
+    WriteClipboard @9

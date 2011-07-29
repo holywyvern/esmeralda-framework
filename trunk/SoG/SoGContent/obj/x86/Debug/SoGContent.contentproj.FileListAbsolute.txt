@@ -1,0 +1,3 @@
+D:\Proyectos\SoG\SoG\SoGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\SOG\SoG\SoGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoGContent\obj\x86\Debug\ResolveAssemblyReference.cache
