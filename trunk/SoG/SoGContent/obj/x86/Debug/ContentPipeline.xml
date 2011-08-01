@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb</Output>
-      <Time>2011-07-03T15:31:57.4670223-03:00</Time>
+      <Output>D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb</Output>
+      <Time>2011-07-28T21:49:11.8248571-03:00</Time>
     </Item>
     <Item>
       <Source>box2.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\Content\box2.xnb</Output>
-      <Time>2011-07-03T15:31:57.8640451-03:00</Time>
+      <Output>D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Content\box2.xnb</Output>
+      <Time>2011-07-28T21:49:12.0968727-03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,10 +25,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoGContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoGContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\Proyectos\esmeralda-framework\SoG\SoGContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Proyectos\esmeralda-framework\SoG\SoG\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Proyectos\esmeralda-framework\SoG\SoGContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -56,8 +56,8 @@
         <Value>2010-08-23T12:41:18-03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2011-07-01T11:36:00.0059192-03:00</Value>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-05-19T02:55:33.8000944-03:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

@@ -56,7 +56,6 @@ namespace Esmeralda.Framework
             foreach (Interfaces.IDrawable sprite in this.objects.Values) { sprite.Dispose(); }
             this.objects.Clear();
             this.objects = null;
-            Esmeralda.Graphics.Cache.Clear();
         }
         #endregion
     }
