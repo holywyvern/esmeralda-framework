@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Esmeralda.Framework.Tilemap
 {
-    public abstract class TileData : IDrawable
+    public abstract class TileData
     {
         #region Class Variable Declaration
         protected static int size = 32;
@@ -12,7 +12,7 @@ namespace Esmeralda.Framework.Tilemap
 
         #region Instance Variable Declaration
         protected uint id;
-        protected Graphics.SpriteBase sprite;
+        protected Texture2D sprite;
         protected Rectangle tile;
         #endregion
 
@@ -27,7 +27,7 @@ namespace Esmeralda.Framework.Tilemap
         /// <summary>
         /// Gets the tile Bitmap 
         /// </summary>
-        public Graphics.SpriteBase Sprite
+        public Texture2D Sprite
         { get { return this.sprite; } }
         #endregion
 
@@ -48,7 +48,7 @@ namespace Esmeralda.Framework.Tilemap
         /// </summary>
         /// <param name="id">Tile ID</param>
         /// <param name="bitmap">Bitmap</param>
-        public TileData(uint id, Graphics.SpriteBase bitmap)
+        public TileData(uint id, Texture2D bitmap)
         {
             this.id = id;
             this.sprite = bitmap;
@@ -59,8 +59,8 @@ namespace Esmeralda.Framework.Tilemap
         #region Calculate Rect
         protected Rectangle CalculateRect()
         {
-            var width = this.sprite.Bitmap.Width;
-            var height = this.sprite.Bitmap.Height;
+            var width = this.sprite.Width;
+            var height = this.sprite.Height;
             var hTiles = width / TileData.size;
             var vTiles = height / TileData.size;
             int rectY = (int)(this.id / hTiles);

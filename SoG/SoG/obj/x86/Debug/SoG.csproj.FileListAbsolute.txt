@@ -28,3 +28,13 @@ C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\b
 C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\bin\x86\Debug\Esmeralda.pdb
 C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\obj\x86\Debug\SoG.exe
 C:\Users\Manuel\Documents\Visual Studio 2010\Projects\emeraldframework\SoG\SoG\obj\x86\Debug\SoG.pdb
+D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb
+D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Content\box2.xnb
+D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\SoG.exe
+D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\SoG.pdb
+D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Esmeralda.dll
+D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Esmeralda.pdb
+D:\Proyectos\esmeralda-framework\SoG\SoG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\esmeralda-framework\SoG\SoG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Proyectos\esmeralda-framework\SoG\SoG\obj\x86\Debug\SoG.exe
+D:\Proyectos\esmeralda-framework\SoG\SoG\obj\x86\Debug\SoG.pdb
