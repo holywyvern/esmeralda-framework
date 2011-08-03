@@ -17,8 +17,8 @@ namespace SoG
 
         protected override void Update()
         {
-            objects["caja"].X = Mouse.Position.X;
-            objects["caja"].Y = Mouse.Position.Y;
+            ((Sprite)objects["caja"]).X = Mouse.Position.X;
+            ((Sprite)objects["caja"]).Y = Mouse.Position.Y;
             if(Keyboard.Trigger(Keys.RETURN))
             {
                 SetScene(new SceneTest2());
