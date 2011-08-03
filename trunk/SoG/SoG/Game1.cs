@@ -26,10 +26,10 @@ namespace SoG
             Cache.SetConfig(cacheConfig);
 
             var audioConfig = new AudioConfig(this.Content);
-            audioConfig.SetBgmDir("Audio/BGM");
-            audioConfig.SetBgsDir("Audio/BGS");
-            audioConfig.SetMeDir("Audio/Me");
-            audioConfig.SetSeDir("Audio/Se");
+            audioConfig.SetBgmDir(@"Audio\BGM");
+            audioConfig.SetBgsDir(@"Audio\BGS");
+            audioConfig.SetMeDir(@"Audio\Me");
+            audioConfig.SetSeDir(@"Audio\Se");
             Audio.SetConfig(audioConfig);
         }
         #endregion

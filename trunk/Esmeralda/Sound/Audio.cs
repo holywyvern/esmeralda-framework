@@ -48,7 +48,7 @@ namespace Esmeralda.Sound
                     Audio.bgmInstance.Dispose();
                     Audio.bgmEffect.Dispose();
                 };
-                Audio.bgmEffect = config.ContentManager.Load<SoundEffect>(Audio.config.Paths["BGM"]+file.Name);
+                Audio.bgmEffect = config.ContentManager.Load<SoundEffect>(String.Format(@"{0}\{1}", Audio.config.Paths["BGM"], file.Name));
                 Audio.bgmInstance = Audio.bgmEffect.CreateInstance();
                 Audio.bgmInstance.IsLooped = true;
                 Audio.bgmInstance.Pitch = ((file.Pitch - 50) / 50.0f) - 1;
@@ -111,7 +111,7 @@ namespace Esmeralda.Sound
                     Audio.bgsInstance.Dispose();
                     Audio.bgsEffect.Dispose();
                 };
-                Audio.bgsEffect = config.ContentManager.Load<SoundEffect>(Audio.config.Paths["BGS"] + file.Name);
+                Audio.bgsEffect = config.ContentManager.Load<SoundEffect>(String.Format(@"{0}\{1}", Audio.config.Paths["BGS"], file.Name));
                 Audio.bgsInstance = Audio.bgsEffect.CreateInstance();
                 Audio.bgsInstance.IsLooped = true;
                 Audio.bgsInstance.Pitch = ((file.Pitch - 50) / 50.0f) - 1;
@@ -162,7 +162,7 @@ namespace Esmeralda.Sound
                 meInstances[meIndex].Dispose();
                 meEffects[meIndex].Dispose();
             }
-            meEffects[meIndex] = config.ContentManager.Load<SoundEffect>(Audio.config.Paths["ME"] + file.Name);
+            meEffects[meIndex] = config.ContentManager.Load<SoundEffect>(String.Format(@"{0}\{1}", Audio.config.Paths["ME"], file.Name));
             meInstances[meIndex] = meEffects[meIndex].CreateInstance();
             meInstances[meIndex].IsLooped = false;
             meInstances[meIndex].Pitch = ((file.Pitch - 50) / 50.0f) - 1;
@@ -220,7 +220,7 @@ namespace Esmeralda.Sound
                 seInstances[seIndex].Dispose();
                 seEffects[seIndex].Dispose();
             }
-            seEffects[seIndex] = config.ContentManager.Load<SoundEffect>(Audio.config.Paths["SE"] + file.Name);
+            seEffects[seIndex] = config.ContentManager.Load<SoundEffect>(String.Format(@"{0}\{1}", Audio.config.Paths["SE"], file.Name));
             seInstances[seIndex] = seEffects[meIndex].CreateInstance();
             seInstances[seIndex].IsLooped = false;
             seInstances[seIndex].Pitch = ((file.Pitch - 50) / 50.0f) - 1;
