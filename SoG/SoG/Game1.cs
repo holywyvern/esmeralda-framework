@@ -9,6 +9,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using Esmeralda.Graphics;
+using Esmeralda.Sound;
 
 namespace SoG
 {
@@ -20,9 +21,16 @@ namespace SoG
         #region Constructor
         public Game1() : base()
         {
-            var config = new CacheConfig(this.Content);
-            config.SetMapDir("MAPS");
-            Cache.SetConfig(config);
+            var cacheConfig = new CacheConfig(this.Content);
+            cacheConfig.SetMapDir("MAPS");
+            Cache.SetConfig(cacheConfig);
+
+            var audioConfig = new AudioConfig(this.Content);
+            audioConfig.SetBgmDir("Audio/BGM");
+            audioConfig.SetBgsDir("Audio/BGS");
+            audioConfig.SetMeDir("Audio/Me");
+            audioConfig.SetSeDir("Audio/Se");
+            Audio.SetConfig(audioConfig);
         }
         #endregion
         protected override void Initialize()

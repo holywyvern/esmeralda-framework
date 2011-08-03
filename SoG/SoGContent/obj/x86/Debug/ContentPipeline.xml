@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb</Output>
-      <Time>2011-07-28T21:49:11.8248571-03:00</Time>
+      <Output>C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb</Output>
+      <Time>2011-08-02T22:27:07.4824218-03:00</Time>
     </Item>
     <Item>
       <Source>box2.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Content\box2.xnb</Output>
-      <Time>2011-07-28T21:49:12.0968727-03:00</Time>
+      <Output>C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\Content\box2.xnb</Output>
+      <Time>2011-08-02T22:27:17.649414-03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,39 +25,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Proyectos\esmeralda-framework\SoG\SoGContent\</RootDirectory>
-      <LoggerRootDirectory>D:\Proyectos\esmeralda-framework\SoG\SoG\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Proyectos\esmeralda-framework\SoG\SoGContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Proyectos\esmeralda-framework\SoG\SoG\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Ramiro\Desktop\Emerald\SoG\SoGContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ramiro\Desktop\Emerald\SoG\SoGContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
         <Value>2010-08-23T12:41:18-03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
         <Value>2010-08-23T12:41:18-03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
         <Value>2010-08-23T12:41:18-03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
         <Value>2010-08-23T12:41:18-03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
         <Value>2010-08-23T12:41:18-03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2010-08-23T12:41:18-03:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2011-05-19T02:55:33.8000944-03:00</Value>
+        <Value>2010-12-09T05:06:25.8427734-03:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
