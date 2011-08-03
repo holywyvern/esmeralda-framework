@@ -38,3 +38,13 @@ D:\Proyectos\esmeralda-framework\SoG\SoG\obj\x86\Debug\ResolveAssemblyReference.
 D:\Proyectos\esmeralda-framework\SoG\SoG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\Proyectos\esmeralda-framework\SoG\SoG\obj\x86\Debug\SoG.exe
 D:\Proyectos\esmeralda-framework\SoG\SoG\obj\x86\Debug\SoG.pdb
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\Content\maps\box.xnb
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\Content\box2.xnb
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\SoG.exe
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\SoG.pdb
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\Esmeralda.dll
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\bin\x86\Debug\Esmeralda.pdb
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\obj\x86\Debug\SoG.exe
+C:\Users\Ramiro\Desktop\Emerald\SoG\SoG\obj\x86\Debug\SoG.pdb
