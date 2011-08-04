@@ -4,6 +4,7 @@ using Esmeralda;
 using Esmeralda.Graphics;
 using Esmeralda.Input;
 using Esmeralda.Framework;
+using Esmeralda.Sound;
 using XNAGraph = Microsoft.Xna.Framework.Graphics;
 
 namespace SoG
@@ -12,6 +13,7 @@ namespace SoG
     {
         protected override void Start()
         {
+            Audio.BgmPlay(new AudioFile("Test"));
             objects.Add("caja", new SpriteBase(Cache.Load("MAPS", "box")));
         }
 

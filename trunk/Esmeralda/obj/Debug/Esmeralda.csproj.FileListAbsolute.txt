@@ -1,0 +1,5 @@
+C:\Users\Ramiro\Desktop\Emerald\Esmeralda\bin\Debug\Esmeralda.dll
+C:\Users\Ramiro\Desktop\Emerald\Esmeralda\bin\Debug\Esmeralda.pdb
+C:\Users\Ramiro\Desktop\Emerald\Esmeralda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ramiro\Desktop\Emerald\Esmeralda\obj\Debug\Esmeralda.dll
+C:\Users\Ramiro\Desktop\Emerald\Esmeralda\obj\Debug\Esmeralda.pdb
