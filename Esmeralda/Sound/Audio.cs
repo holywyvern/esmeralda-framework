@@ -8,6 +8,46 @@ namespace Esmeralda.Sound
 {
     public static class Audio
     {
+        #region Constants
+        private static string defaultBgmFolder = @"Audio\BGM";
+        private static string defaultBgsFolder = @"Audio\BGS";
+        private static string defaultMeFolder  = @"Audio\ME";
+        private static string defaultSeFolder  = @"Audio\SE";
+
+        /// <summary>
+        /// Gets the defaullt directory where you load Background Music.
+        /// </summary>
+        public static string DefaultBgmFolder
+        {
+            get { return Audio.defaultBgmFolder; }
+        }
+
+        /// <summary>
+        /// Gets the defaullt directory where you load Background Sound.
+        /// </summary>
+        public static string DefaultBgsFolder
+        {
+            get { return Audio.defaultBgsFolder; }
+        }
+
+        /// <summary>
+        /// Gets the defaullt directory where you load Musical Effects.
+        /// </summary>
+        public static string DefaultMeFolder
+        {
+            get { return Audio.defaultMeFolder; }
+        }
+
+        /// <summary>
+        /// gets the defaullt directory where you load Sound Effects.
+        /// </summary>
+        public static string DefaultSeFolder
+        {
+            get { return Audio.defaultSeFolder; }
+        }
+
+        #endregion
+
         #region Variable Declaration
         private static int MAX_EFFECTS = 31;
         private static AudioConfig config;

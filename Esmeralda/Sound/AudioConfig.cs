@@ -23,10 +23,10 @@ namespace Esmeralda.Sound
         {
             this.contentManager = contentManager;
             this.paths = new Dictionary<string, string>();
-            this.paths.Add("BGM", "");
-            this.paths.Add("BGS", "");
-            this.paths.Add("ME", "");
-            this.paths.Add("SE", "");
+            this.paths.Add("BGM", Audio.DefaultBgmFolder);
+            this.paths.Add("BGS", Audio.DefaultBgsFolder);
+            this.paths.Add("ME", Audio.DefaultMeFolder);
+            this.paths.Add("SE", Audio.DefaultSeFolder);
         }
         #endregion
 
